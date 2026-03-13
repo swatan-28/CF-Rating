@@ -4,7 +4,6 @@ A machine learning web application that predicts a user's expected Codeforces ra
 
 The application fetches user data from the Codeforces API and uses a trained machine learning model to estimate the rating based on various performance indicators.
 
----
 
 ## Live Demo
 

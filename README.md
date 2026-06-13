@@ -7,8 +7,7 @@ The application fetches user data from the Codeforces API and uses a trained mac
 
 ## Live Demo
 
-Coming Soon (Deploying on Render)
-
+https://cf-predictor-1-c67c.onrender.com/
 ---
 
 ## Features
